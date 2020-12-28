@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+}
+
+header {
+    width: auto;
+    background-color: #eceddb;
+    height: 250px;
+}
+
+#Lizaveta {
+    margin: 20px 50px;
+    width: 180px;
+    border-radius: 70px;
+}
+
+#name {
+    float: right;
+    margin-right: 350px;
+    font-size: 100px;
+    margin-top: 50px;
+}
+
+hr {
+    align: center;
+    height: 1px;
+    width: 800px;
+    background-color: black;
+}
+
+h3 {
+    text-align: center;
+    font-style: oblique;
+    font-size: 25px;
+}
+
+p {
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+}
