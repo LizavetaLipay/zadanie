@@ -1,1 +1,1 @@
-[CV](https://LiavetaLipay.github.io/rsschool-cv/cv)
+[My CV](https://github.com/LizavetaLipay/zadanie)
